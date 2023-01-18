@@ -14,8 +14,8 @@
 
 <div style='display: inline_block'><br/>
   <img align='center' alt='Java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
-  <img align='center' alt='Spring' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
-  <img align='center' alt='Angular' src=' https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
+  <img align='center' alt='Spring' src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'/>
+  <img align='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
   <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img align='center' alt='BootStrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
   <img align='center' alt='Mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
@@ -25,9 +25,10 @@
 
 ## Sobre
 
-Minha carreira está no incio, mas através do desenvolvimento de software enxergo a oportunidade para mudança da minha realidade, a qual almejo trabalhar com o que amo e ter realização profissional. Venho conquistando este objetivo, através do conhecimento aplicado na prática. Cursos, leituras, tutorias e demais ferramentas que envolva o mundo da programação é o que faz parte da minha rotina.
+Olá! 👋
+Agradeço seu interesse em querer conhecer um pouco mais sobre minha trajetória. 
 
-Tecnológo em Analise e Desenvolvimento de Sistemas formado no ano 2021, busco aprimorar minhas habilidades na área de Back-end, com objetivo de me tornar um excelente profissional que é realizado naquilo que escolhe fazer.
+Entrei no mundo do desenvolvimento de software em 2016 e desde então através da tecnologia encontrei a minha área de atuação profissional. Sou desenvolvedor Fullstack com as tecnologias Java e Angular e estou sempre me atualizando para conseguir novas habilidades.
 
 
 
